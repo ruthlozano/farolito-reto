@@ -1,0 +1,169 @@
+.navbar-default {
+	background-color:rgba(208, 254, 245, 0.76);
+  	border-color:rgba(181, 241, 238, 0.99);
+}
+#home{
+	background-image:url(../img/img_nosotros-02.png);
+	height:74%;
+  	width:100%;
+  	display:table;
+  	background-size:cover;
+}
+.nosotros{
+  text-align:right;
+  vertical-align:middle;
+  display:table-cell;
+}
+.t-nos{
+	text-align:center;
+	color:white;
+	margin-bottom:22%;
+	h2{
+		padding:25px;
+		font-size:34px;
+	}
+	p{
+		line-height:1.5;
+		font-size:22px;
+	}
+}
+.fundadores{
+	h2{
+		text-align:center;
+		padding-bottom: 4%;
+ 		padding-top: 7%;
+	}
+	img{
+		
+  	border-radius: 50%;
+ 	width: 100%;
+ 	}
+	.img-funda {
+  	border-radius: 50%;
+  	border: 1px solid black;
+  	width: 42%;
+  	padding: 3px;
+  	margin:0 auto;
+	}
+	.f-fundadores{
+	padding:0 11%;
+	margin:0 auto;
+	text-align:center;
+	
+	h3{
+		color:rgb(43, 197, 230);
+	}
+	p{
+		
+		padding-bottom: 20%;
+  		padding-top: 7%
+	}
+	span{
+		line-height:0.5;
+	}
+ }
+}
+.asesores{
+	text-align:center;
+	h2{
+		text-align:center;
+		padding:4%;
+		
+	}
+	h3{
+		color:rgb(43, 197, 230);
+	}
+	span{
+		line-height:0.5;
+		
+	}
+	.img-funda{
+		border-radius: 50%;
+  		border: 1px solid black;
+  		width: 42%;
+  		padding: 3px;
+  		margin:0 auto
+	}
+	img{
+		
+  	border-radius: 50%;
+ 	width: 100%;
+ 	}
+ 	p{
+ 		padding-bottom:8%;
+ 		padding-top:7%;
+ 	}
+}
+.comitee{
+		text-align:center;
+		padding:0 15%;
+	h3{
+		color:rgb(43, 197, 230);
+	}
+	h2{
+		padding:4%;
+	}
+	p{
+		padding-bottom:30%;
+		padding-top:7%;
+		
+	}
+	span{
+		line-height:0.5;
+	}
+}
+.genios{
+	background-color:#FF6A49;
+	height:570px;
+	width:100%;
+	.icono {
+		text-align:center;
+		padding-top:20%;
+		img{
+		border-radius:50%;
+	}
+  }	
+  h2{
+  	text-align:center;
+  	margin:0;
+  	color:white;
+  }
+  hr{
+  	width:60%;
+  }
+  p{
+  	color:white;
+  	padding-top:4%;
+  	line-height:1.5;
+  }
+}
+.footer{
+  background-color:gray;
+  img{
+    border-radius:50%;
+    top:5%;
+    position: relative;
+    bottom: 11px;
+  }
+}
+.consulta h2{
+    text-align:center;
+    padding: 30px;
+    padding-top: 75px;
+}
+.boton-c{
+  float:right;
+  .btn-primary {
+    background-color: gray;
+    border-color: gray;
+  }
+}
+.llamanos{
+  float: left;
+  margin-top: 48px;
+}
+span.derecho {
+  color: white;
+  float: right;
+  padding: 7px 42px;
+}

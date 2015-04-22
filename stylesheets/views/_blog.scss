@@ -1,0 +1,58 @@
+.blog{
+	.texto-b{
+		padding-top:9%;
+	}
+	img{
+		margin-bottom:32px;
+	}
+	.blog-t{
+		display:inline-block;
+		}
+	}
+.lista{
+	padding-top:43%;
+}
+.blog-l{
+	background-color:#C2C0C0;
+	padding:9px 0;
+	li{
+		border-bottom:1px solid black;
+	}
+
+}
+.lista-t{
+	background-color:#C2C0C0;
+}
+.texto-l{
+	background-color:#C2C0C0;
+}
+.footer{
+  background-color:gray;
+  img{
+    border-radius:50%;
+    top:5%;
+    position: relative;
+    bottom: 11px;
+  }
+}
+.consulta h2{
+    text-align:center;
+    padding: 30px;
+    padding-top: 75px;
+}
+.boton-c{
+  float:right;
+  .btn-primary {
+    background-color: gray;
+    border-color: gray;
+  }
+}
+.llamanos{
+  float: left;
+  margin-top: 48px;
+}
+span.derecho {
+  color: white;
+  float: right;
+  padding: 7px 42px;
+}
