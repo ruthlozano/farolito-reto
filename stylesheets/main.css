@@ -5548,8 +5548,8 @@ body {
 .navbar-nav > li > a {
   font-size: 22px; }
 
-a {
-  text-decoration: none; }
+.cuadro-h a {
+  list-style: none; }
 
 .overlay {
   width: 400px;
@@ -6310,6 +6310,9 @@ span.derecho {
   padding: 30px;
   padding-top: 75px; }
 
+@media screen and (max-width: 480px) {
+  #home {
+    background-image: url(../iconos/nosotros-r.jpg); } }
 .boton-c {
   float: right; }
   .boton-c .btn-primary {
@@ -6360,7 +6363,7 @@ span.derecho {
   height: 175px;
   width: 196px; }
   .blog-l li {
-    border-bottom: 1px solid black;
+    border-bottom: 1px solid #978e8e;
     width: 125px;
     font-size: 19px;
     padding-top: 2px; }

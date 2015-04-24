@@ -164,6 +164,12 @@
     padding: 30px;
     padding-top: 75px;
 }
+@media screen and (max-width:480px){
+	#home{
+	background-image:url(../iconos/nosotros-r.jpg);
+		
+	}
+}
 .boton-c{
   float:right;
   .btn-primary {
