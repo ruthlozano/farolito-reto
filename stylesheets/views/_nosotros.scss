@@ -1,3 +1,4 @@
+
 .navbar-default {
 	background-color:rgba(208, 254, 245, 0.76);
   	border-color:rgba(181, 241, 238, 0.99);
@@ -23,15 +24,18 @@
 		font-size:34px;
 	}
 	p{
-		line-height:1.5;
-		font-size:22px;
+		line-height: 1.5;
+  		font-size: 22px;
 	}
 }
 .fundadores{
 	h2{
-		text-align:center;
-		padding-bottom: 4%;
- 		padding-top: 7%;
+		text-align: center;
+		  padding-bottom: 4%;
+		  padding-top: 8%;
+		  font-size: 38px;
+		  color: gray;
+
 	}
 	img{
 		
@@ -60,6 +64,7 @@
 	}
 	span{
 		line-height:0.5;
+		color:#989797;
 	}
  }
 }
@@ -68,7 +73,8 @@
 	h2{
 		text-align:center;
 		padding:4%;
-		
+		font-size:35px;
+		color:gray;
 	}
 	h3{
 		color:rgb(43, 197, 230);
@@ -112,6 +118,9 @@
 		line-height:0.5;
 	}
 }
+.estudiantes img{
+	width:100%;
+}
 .genios{
 	background-color:#FF6A49;
 	height:570px;
@@ -127,6 +136,10 @@
   	text-align:center;
   	margin:0;
   	color:white;
+  }
+  hr.raya-c{
+  	  border: 1px dashed #c8c6c6;
+  	  width:89%;
   }
   hr{
   	width:60%;
@@ -167,3 +180,11 @@ span.derecho {
   float: right;
   padding: 7px 42px;
 }
+  
+ #fundadores{
+font-family: 'Source Sans Pro', sans-serif;  
+} 
+ #genios{
+ 	
+font-family: 'Source Sans Pro', sans-serif; 
+ }
