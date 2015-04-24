@@ -5548,6 +5548,9 @@ body {
 .navbar-nav > li > a {
   font-size: 22px; }
 
+a {
+  text-decoration: none; }
+
 .overlay {
   width: 400px;
   height: 400px;
