@@ -5535,9 +5535,6 @@ span {
 /*html,body{
 	height:98%%;
 }*/
-body {
-  font-family: 'Lato', sans-serif; }
-
 .navbar-nav {
   float: right; }
   .navbar-nav .navbar-default .navbar-nav > li > a {
